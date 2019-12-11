@@ -83,9 +83,9 @@ author:
   name             : "Nima Chartab"
   avatar           : "profile.png"
   bio              : "PhD candidate in physics and astronomy"
-  location         : "Riverside, CA"
+  location         : "University of California, Riverside"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TBPlhpUAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/NimaChartab"
   google_plus      :
   keybase          :
   instagram        :
