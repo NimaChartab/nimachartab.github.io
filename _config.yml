@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nima's Personal Webpage"
+title                    : "Nima's Personal Website"
 title_separator          : "-"
 name                     : &name "Nima Chartab"
 description              : &description "PhD candidate in physics and astronomy"
@@ -94,12 +94,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "nima.chartabsoltani.1"
   foursquare       :
   github           : "https://github.com/NimaChartab"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "n.ch.soltani"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
