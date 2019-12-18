@@ -180,10 +180,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:https://ui.adsabs.harvard.edu/search/p_=0&q=%22Chartab%2C%20Nima%22%20or%20%22Chartab%20soltani%2C%20Nima%22&sort=date%20desc%2C%20bibcode%20desc
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
+    permalink: https://ui.adsabs.harvard.edu/search/p_=0&q=%22Chartab%2C%20Nima%22%20or%20%22Chartab%20soltani%2C%20Nima%22&sort=date%20desc%2C%20bibcode%20desc
   talks:
     output: true
     permalink: /:collection/:path/
