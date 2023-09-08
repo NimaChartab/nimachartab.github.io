@@ -82,27 +82,27 @@ analytics:
 author:
   name             : "Nima Chartab"
   avatar           : "nchartab.jpeg"
-  bio              : "Extragalactic Postdoctoral Fellow"
-  location         : "Carnegie Institution for Science, Observatories"
+  bio              : "Extragalactic Postdoctoral Fellow <br> Carnegie Institution for Science, Observatories"
+  location         : "Pasadena, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TBPlhpUAAAAJ&hl=en"
   email            : "nchartab@carnegiescience.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Nima-Chartab"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "nima.chartabsoltani.1"
+  facebook         : #"nima.chartabsoltani.1"
   foursquare       :
   github           : "https://github.com/NimaChartab"
   google_plus      :
   keybase          :
-  instagram        : "nchsoltani"
+  instagram        : #"nchsoltani"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "nima-chartab/"
   orcid            : "https://orcid.org/0000-0003-3691-937X"
   pinterest        :
   soundcloud       :
