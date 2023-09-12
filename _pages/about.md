@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div class="justify-text">
+<p style="text-align:justify;">
 
 I am currently a postdoctoral fellow at the [Carnegie Observatories](https://obs.carnegiescience.edu). My research focuses primarily on analyzing comprehensive spectroscopic and photometric galaxy surveys, enhanced with advanced artificial intelligence techniques, to study the formation and evolution of galaxies across diverse cosmic environments. I use a variety of methodologies, including large-scale distribution of galaxies and Lyman-Alpha tomography, to detect clusters of galaxies and their progenitors, known as protoclusters. I study how these extreme environments influence the evolution of galaxies, including but not limited to their star formation and metal enrichment histories.
 
@@ -21,5 +21,6 @@ I began my academic journey with a BSc in Electrical Engineering in 2014, follow
 
 I am deeply passionate about mentoring and teaching. In the past, I mentored many high school students for the International Astronomy Olympiads. Furthermore, I've advised several undergraduate and graduate students from diverse backgrounds, helping them through exciting astronomy projects.
 
-In my free time, when I'm not immersed in the joys of research and coding, I enjoy cooking delicious dishes, traveling, relaxing on the beach, singing karaoke, and exploring new destinations. </div>
+In my free time, when I'm not immersed in the joys of research and coding, I enjoy cooking delicious dishes, traveling, relaxing on the beach, singing karaoke, and exploring new destinations. </p>
+
 
