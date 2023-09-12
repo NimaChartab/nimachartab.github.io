@@ -13,7 +13,7 @@ I am currently a postdoctoral fellow at the <a href="https://obs.carnegiescience
 
 <p style="text-align:justify;">
 
-At Carnegie I work with <a href="https://sites.google.com/carnegiescience.edu/anewman">Dr. Drew Newman</a> on the Lyman-Alpha Tomography IMACS Survey (LATIS), which provides the largest Mpc-resolution 3D map of matter distribution at z~2.5 by observing the Ly-alpha forest in the spectra of over 3000 background Lyman-break galaxies. I utilize LATIS to study the emergence of environmental effects in galaxy evolution at cosmic noon.</p>  
+At Carnegie I work with <a href="https://sites.google.com/carnegiescience.edu/anewman">Dr. Drew Newman</a> on the Lyman-Alpha Tomography IMACS Survey (LATIS), which provides the largest Mpc-resolution 3D map of matter distribution at z~2.5 by observing the Ly-alpha forest in the spectra of more than 3000 background Lyman-break galaxies. I utilize LATIS to study the emergence of environmental effects in galaxy evolution at cosmic noon.</p>  
 
 <p style="text-align:justify;">
 
