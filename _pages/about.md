@@ -9,7 +9,7 @@ redirect_from:
 ---
 <p style="text-align:justify;">
 
-I am currently a postdoctoral fellow at the <a href="https://obs.carnegiescience.edu">Carnegie Observatories</a>. My research focuses primarily on analyzing comprehensive spectroscopic and photometric galaxy surveys, enhanced with advanced artificial intelligence techniques, to study the formation and evolution of galaxies across diverse cosmic environments. I use a variety of methodologies, including large-scale distribution of galaxies and Lyman-Alpha tomography, to detect clusters of galaxies and their progenitors, known as protoclusters. I study how these extreme environments influence the evolution of galaxies, including but not limited to their star formation and metal enrichment histories.</p>
+I am currently a postdoctoral fellow at the <a href="https://obs.carnegiescience.edu">Carnegie Observatories</a>. My research focuses primarily on analyzing comprehensive spectroscopic and photometric galaxy surveys, enhanced with artificial intelligence techniques, to study the formation and evolution of galaxies across diverse cosmic environments. I use a variety of methodologies, including large-scale distribution of galaxies and Lyman-Alpha tomography, to detect clusters of galaxies and their progenitors, known as protoclusters. I study how these extreme environments influence the evolution of galaxies, including but not limited to their star formation and metal enrichment histories.</p>
 
 <p style="text-align:justify;">
 
