@@ -187,7 +187,7 @@ collections:
 
   portfolio:
     output: true
-    permalink: https://nimachartab.github.io/
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
