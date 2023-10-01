@@ -21,7 +21,7 @@ Before joining Carnegie, I was a postdoctoral scholar at the University of Calif
 
 <p style="text-align:justify;">
 
-I earned my Ph.D. in March 2021, amidst the COVID-19 pandemic, from the University of California, Riverside, under the supervision of <a href="https://engineeringonline.ucr.edu/faculty/bahram-mobasher/">Prof. Bahram Mobasher</a>. During my Ph.D., I utilized the data from <a href="http://arcoiris.ucolick.org/candels/">CANDELS</a> and <a href="https://mosdef.astro.berkeley.edu/">MOSDEF</a> surveys to study the evolution of galaxies in different environments over cosmic time. Additionally, I developed methods employing state-of-the-art machine learning and deep learning techniques to maximize the scientific impact of current and upcoming space and ground-based observatories.</p>
+I earned my Ph.D. in March 2021, amidst the COVID-19 pandemic, from the University of California, Riverside, under the supervision of <a href="https://profiles.ucr.edu/app/home/profile/mobasher">Prof. Bahram Mobasher</a>. During my Ph.D., I utilized the data from <a href="http://arcoiris.ucolick.org/candels/">CANDELS</a> and <a href="https://mosdef.astro.berkeley.edu/">MOSDEF</a> surveys to study the evolution of galaxies in different environments over cosmic time. Additionally, I developed methods employing state-of-the-art machine learning and deep learning techniques to maximize the scientific impact of current and upcoming space and ground-based observatories.</p>
 
 <p style="text-align:justify;">
 
