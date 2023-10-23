@@ -3,12 +3,12 @@ main:
   - title: "Publications"
     url: /publications/   
 
-  - title: "Research"
-    url: /research/    
+#  - title: "Research"
+#    url: /research/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
         
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /data/Nima_s_CV_2023.pdf
