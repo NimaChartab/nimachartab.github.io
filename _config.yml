@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nima Chartab"
   avatar           : "nchartab.jpeg"
-  bio              : "Data Scientist <br> Extragalactic astrophysicist <br> <a href='https://obs.carnegiescience.edu/' target='_blank' style='color: #006699; text-decoration: none;'>Carnegie Institution for Science <br> Observatories</a>"
+  bio              : "Data Scientist <br> Extragalactic astrophysicist <br> <a href='https://www.ipac.caltech.edu/' target='_blank' style='color: #006699; text-decoration: none;'>California Institute of Technology<br> IPAC</a>"
   location         : "Pasadena, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
