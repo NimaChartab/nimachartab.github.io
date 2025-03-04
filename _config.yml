@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nima Chartab"
   avatar           : "nchartab.jpeg"
-  bio              : "Data Scientist <br> Extragalactic astrophysicist <br> <a href='https://www.ipac.caltech.edu/' target='_blank' style='color: #006699; text-decoration: none;'>California&nbsp;Institute&nbsp;of&nbsp;Technology</a> | IPAC"
+  bio: "Data Scientist <br> Extragalactic astrophysicist <br> <a href='https://www.ipac.caltech.edu/' target='_blank' style='color: #006699; text-decoration: none;'>California&nbsp;Institute&nbsp;of&nbsp;Technology</a> <br> <a href='https://www.ipac.caltech.edu/' target='_blank' style='color: #006699; text-decoration: none;'>IPAC</a>"
   location         : "Pasadena, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
